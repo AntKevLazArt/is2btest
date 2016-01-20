@@ -11,7 +11,10 @@ package com.acme.is2test;
  */
 public class Main {
     public void Saludo(){
-        
-        
+        System.out.println("Hola");
+    }
+    
+    public void Despedida(){
+        System.out.println("Chao");
     }
 }
